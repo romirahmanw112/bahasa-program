@@ -8,6 +8,12 @@
 
 ![gambar](dokumentasi/ss1.png)
 
+<h1>Latihan 2</h1>
+
+
 ![gambar](dokumentasi/ss2.png)
+
+<h1>Latihan 3</h1>
+
 
 ![gambar](dokumentasi/ss3.png)
